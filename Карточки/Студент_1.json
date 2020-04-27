@@ -1,0 +1,24 @@
+{
+  "FIO": "Щегольков Иван Сергеевич",
+  "Сurriculum_": [
+    {
+      "Faculty": "Информатика",
+      "Speciality": "Прикладная информатика",
+      "Cource": "4 курс",
+      "Group": "БОФС-2016-ПИ"
+    }
+  ],
+  "Address_": [
+    {
+      "City": "Ставрополь",
+      "PostIndex": "111000",
+      "Street": "Арбат"
+    }
+  ],
+  "Contacts_": [
+    {
+      "Phone": "89911121669",
+      "Email": "sheg.ivan@gmail.com"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FIO": "Иванов Иван Иванович",
+  "Сurriculum_": [
+    {
+      "Faculty": "",
+      "Speciality": "",
+      "Cource": "2 курс",
+      "Group": ""
+    }
+  ],
+  "Address_": [
+    {
+      "City": "",
+      "PostIndex": "",
+      "Street": ""
+    }
+  ],
+  "Contacts_": [
+    {
+      "Phone": "",
+      "Email": ""
+    }
+  ]
+}
